@@ -1,0 +1,1 @@
+To force Git to include this folder for the distribution
